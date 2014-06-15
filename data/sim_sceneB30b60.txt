@@ -1,0 +1,7 @@
+Simulator
+  Boids data/sceneB30_boids60.txt
+  Goals data/sceneB30_goals60.txt
+  StaticObstacles data/sceneB30_static.txt
+  DynamicObstacles data/sceneB30_dynamic.txt
+  BoundingBox -40 -40 40 40
+end
